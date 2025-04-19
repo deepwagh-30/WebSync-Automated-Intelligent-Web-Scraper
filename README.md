@@ -109,4 +109,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-© 2025 WebSync Intelligence | Built with ❤️ using Streamlit
+© 2025 WebSync Intelligence | Built using Streamlit
